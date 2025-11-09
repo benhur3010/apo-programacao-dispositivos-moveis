@@ -16,7 +16,7 @@
         android:id="@+id/name"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Marcos Valdecir Claudino"
+        android:text="Ben-Hur Bueno"
         android:textSize="18sp"
         android:layout_marginTop="16dp"
         android:layout_gravity="center_horizontal" />
@@ -25,7 +25,7 @@
         android:id="@+id/ra"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="RA: 09036627"
+        android:text="RA: 09048728"
         android:layout_gravity="center_horizontal" />
 
     <TextView
